@@ -19,6 +19,15 @@ tags = ["enderman", "mining", "survival", "teleportation"]
 key = "RWTXlLLUSOJS7XRVRqmgOEH3c0rwDY/1CqXd64/Debkiy6bJOe0mzt4K"
 
 [[versions]]
+version = "0.2.0-beta.1"
+published = "2026-11-21"
+game = "26.3"
+file = "ender-undertow-horizon-data-26.3-beta.1.zip"
+sha256 = "b4cc7c793a72ef9b47972e24889c91bb10aa3cf5586f43f5e6f2ba826aff0276"
+changelog = "Adds Rift and Gentleman encounters, safe home and diamond overlook landings, and optional cinematic cues."
+signature = "untrusted comment: signature from minisign secret key\nRUTXlLLUSOJS7Z/fwlABadX5crEEzwp9iwZpFZWDkGnNRwB2kPWg1WA0kvF7/xg4TXPoWRy/R6skebGkOcV1v751pq4gbW6j0Ag=\ntrusted comment: timestamp:1795260625\tfile:ender-undertow-horizon-data-26.3-beta.1.zip\thashed\n+B6u2OOmk3QN/neGH8CFReREod8ZWVezL1vs3xqdaBy+uG9vqh/6PzSBxLaR5xBzl7A4RkRbVXic6kLjz/LTAw==\n"
+
+[[versions]]
 version = "0.1.1"
 published = "2026-11-20"
 game = "26.3"
