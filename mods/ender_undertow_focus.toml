@@ -11,13 +11,13 @@ icon = "icons/ender_undertow_focus.png"
 categories = ["atmosphere"]
 tags = ["enderman", "mining", "survival", "teleportation"]
 key = "RWTXlLLUSOJS7XRVRqmgOEH3c0rwDY/1CqXd64/Debkiy6bJOe0mzt4K"
-source = "https://github.com/Fnux8890/ender-undertow/tree/8e18280557d6d830e8111a696c39d1567636819b"
+source = "https://github.com/Fnux8890/ender-undertow/tree/2c5491918c87dcce0e9e8ae3527d238beb14da5f"
 
 [[versions]]
-version = "0.1.0"
+version = "0.1.1"
 published = "2026-11-21"
 game = "26.3"
 file = "ender_undertow_focus.hshader"
-sha256 = "be38af0e8bebf5810f688b17b223cc250c2207aece93fc13a2beb999a3906b34"
-changelog = "First Horizon 26.3 cinematic beta."
-signature = "untrusted comment: signature from minisign secret key\nRUTXlLLUSOJS7X/XOoeeonOiaEsv7p/bWLhuuZVI/gb3LobNo0EWBm7gFrxaOoia90THYUd8MJDj40b7zAnrj4jbgISSNCiAsgE=\ntrusted comment: timestamp:1795260625\tfile:ender_undertow_focus.hshader\thashed\nXHVM6lmrcySO2671/vPy3a3UHt0TPiQcrlUF/OjiVPcpWT5KSRS+CfEEGkaHx0eDNKtdnfBmN1AbbAm+V1znAQ==\n"
+sha256 = "a222505a3d39ceca10e8aee107e40c60196afa6cceab6cf8bdbcbf4ecb200024"
+changelog = "Cinematic beta with the full MIT notice in this standalone download."
+signature = "untrusted comment: signature from minisign secret key\nRUTXlLLUSOJS7QJU6zAkaxerMFyYIN/IGZUj02JtbL6+zqfAeq+/A5nSKZpSokYpSbiQvBnTUQvM02cFBmTJr/F5A+3xU+mlbQk=\ntrusted comment: timestamp:1795292611\tfile:ender_undertow_focus.hshader\thashed\nJFbd/9ciHCjRtJh5aJhLL9I1UqaZY/OHSbOLmXX3/TBI/Tul7TM5vbDfvRFPHUoXqUJakw9kaEu+/TohYbzOAg==\n"
