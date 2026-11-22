@@ -2,11 +2,7 @@ id = "ender_undertow"
 kind = "datapack"
 name = "Ender Undertow"
 summary = "An Enderman behind an underground miner can lift them off the floor and blink them into a nearby cave."
-description = """
-In Overworld survival, mining stone or ore with an Enderman close behind you can trigger an eight-tick lift followed by a short teleport. Turning to face it or keeping a wall between you prevents the pickup.
-
-The pack looks for solid ground, headroom and an adjacent walkable space, then checks the destination again before arrival. If the original Enderman moves away, the carry ends. Each pickup starts a two-minute cooldown. Modpack authors can tune the default one-in-eight chance with a scoreboard setting.
-"""
+description = "In Overworld survival, mining stone or ore with an Enderman close behind you can trigger an eight-tick lift followed by a short teleport. Turning to face it or keeping a wall between you prevents the pickup.\n\nThe pack looks for solid ground, headroom and an adjacent walkable space, then checks the destination again before arrival. If the original Enderman moves away, the carry ends. Each pickup starts a two-minute cooldown. Modpack authors can tune the default one-in-eight chance with a scoreboard setting.\n\n\n**Installing Ender Undertow on Horizon 26.3**\n\n- **Ender Undertow** (this listing) — World data pack for the mining and teleport encounter. It works on its own.\n- [Cinematic](https://playhorizon.dev/mods/ender_undertow_cinematic) — Native mod for the camera turn, lowered hands and color fade. Install on the host and each participating client, then opt in with `/trigger eu.scene set 1`.\n- [Resources](https://playhorizon.dev/mods/ender_undertow_resources) — Client resource pack for the Gentleman’s voice and wardrobe and the lingering portal sound. Enable it in Resource Packs.\n- [Focus](https://playhorizon.dev/mods/ender_undertow_focus) — Optional client shader for blur and warble during the cinematic. Select it in Shader Packs.\n\n[Download all four in one ZIP and see installation instructions](https://michado.dk/projects/ender-undertow/#install)."
 authors = ["Fnux8890"]
 owners = ["Fnux8890"]
 owner_ids = [21344589]
